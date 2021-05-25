@@ -91,8 +91,7 @@ inside of our GitHub ReadMe or other pages</p>
 <br>
 <p>Josh is in charge of monitoring and keeping all website aspects and attendence up to date.</p>
 <br>
-
-<h4>Key 
+ 
 <table>
 	<tr>
 		<th>Attend</th>
