@@ -56,7 +56,7 @@ All inforation is due to possibly change.</p>
 		<br>
 		<p>The logo has been created and implemented into the ReadMe file and eventually the entire project. This logo is visible from the top of the ReadMe file.
 		This logo displays the slice of both a cucumber and a banana held together by a band creating the combined image of a headset.</p>
-		<img src="images/music_logo.png" style="width:400px;height:400px;transform:translate(500px);">
+		<img src="music_logo.png">
 		<br>
 		<h4><i>10/05/2021</i></h4>
 		<br>
