@@ -16,7 +16,7 @@ cloudbased mp3 downloading and converting software followed.</p>
   	        <li>Members</li>
 		<li>Project Charter</li>
 	</ul>
- <br>
+<br>
 <p>The project charter included project goals, constraints and problems, project manager, high level schedule and budget, milestones and approvals.
 As this project is very new and there are many things to change and add in all information shown on the ReadMe files may be incorrect and sparse.
 All inforation is due to possibly change.</p>
@@ -81,3 +81,13 @@ time with the difficulties that it imposed to perform similar functions on Notep
 <br>
 <p>Upon completion of this website the idea will be to publish the website and constantly update it and supply a link to this website
 inside of our GitHub ReadMe or other pages</p>
+<br>
+<h4><i>25/05/2021</i></h4>
+<br>
+<p>Progress has been slow due to difficulty in understanding certain aspencts of requirements that are needed to complete the project. Josh has completed recreated the website in GitHub Pages which he finds to be a very lack-luster and ineffective way of creating a website. The formatting is completely pre-created by GitHub Pages therefore releaving the unique feeling of a handmade website.</p>
+<br>
+<p>Gregor has created multiple variants of the wireframes for the software. These are very reminicent of features of similar software. It incorporates all necessary and desired software functions required by the client and personas.</p>
+<p>Gregor has also taken charge in creating the personas. These will be people who are most likely to use the software and what they like to see in it and what the would not. This will help us greatly in further refining our software design and purpose.</p>
+<br>
+<p>Josh is in charge of monitoring and keeping all website aspects and attendence up to date.</p>
+<br>
