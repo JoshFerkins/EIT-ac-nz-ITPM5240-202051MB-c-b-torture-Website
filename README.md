@@ -91,3 +91,83 @@ inside of our GitHub ReadMe or other pages</p>
 <br>
 <p>Josh is in charge of monitoring and keeping all website aspects and attendence up to date.</p>
 <br>
+
+<h4>Key 
+<table>
+	<tr>
+		<th>Attend</th>
+		<th>May</th>
+		<td>3rd</td>
+		<td>4th</td>
+		<td>5th</td>
+		<td>10th</td>
+		<td>11th</td>
+		<td>12th</td>
+		<td>17th</td>
+		<td>18th</td>
+		<td>19th</td>
+		<td>24th</td>
+		<td>25th</td>
+		<td>26th</td>
+		<td>31st</td>
+	</tr>
+	<tr>
+		<th>Josh</th>
+		<th>--</th>
+		<td>✔</td>
+		<td>✔</td>
+		<td>✔</td>
+		<td>✕</td>
+		<td>✕</td>
+		<td>✔</td>
+		<td>✔</td>
+		<td>✔</td>
+		<td>✔</td>
+		<td>✔</td>
+		<td>✔</td>
+		<td>✕</td>
+		<td>✔</td>
+	</tr>
+	<tr>
+		<th>Gregor</th>
+		<th>--</th>
+		<td>✔</td>
+		<td>✔</td>
+		<td>✔</td>
+		<td>✕</td>
+		<td>✔</td>
+		<td>✔</td>
+		<td>✔</td>
+		<td>✔</td>
+		<td>✔</td>
+		<td>✔</td>
+		<td>✔</td>
+		<td>✔</td>
+		<td>✕</td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th>Attend</th>
+		<th>June</th>
+		<td>1st</td>
+		<td>2nd</td>
+	</tr>
+	<tr>
+		<th>Josh</th>
+		<th>--</th>
+		<td>✔</td>
+		<td>✔</td>
+	</tr>
+	<tr>
+		<th>Gregor</th>
+		<th>--</th>
+		<td>✕</td>
+		<td>✔</td>
+	</tr>
+</table>
+	
+	
+	
+
+		
