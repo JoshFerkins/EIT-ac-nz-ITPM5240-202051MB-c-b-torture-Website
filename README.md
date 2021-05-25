@@ -5,7 +5,7 @@
 
 <h3>Daily Monitoring</h3>
 <br>
-<h3><i>04/05/2021</i></h3>
+<h4><i>04/05/2021</i></h4>
 <p>The group was created between Gregor Tutty and Josh Ferkins, the idea and name for the project soon followed. They made concise decisions
 based on the main idea of the software project. They have created the idea for an Mp3 media player to rival all others. The idea to implement a 
 cloudbased mp3 downloading and converting software followed.</p>
@@ -13,7 +13,7 @@ cloudbased mp3 downloading and converting software followed.</p>
 <p>A repository has been created for the creation and storing of files for this project. The ReadMe file has been created, this includes...</p>
 	<ul>
 		<li>Stakeholders</li>
-  	<li>Members</li>
+  	        <li>Members</li>
 		<li>Project Charter</li>
 	</ul>
  <br>
