@@ -120,12 +120,12 @@ inside of our GitHub ReadMe or other pages</p>
 		<td>✕</td>
 		<td>✔</td>
 		<td>✔</td>
+		<td>x</td>
 		<td>✔</td>
 		<td>✔</td>
 		<td>✔</td>
 		<td>✔</td>
-		<td>✕</td>
-		<td>✔</td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<th>Gregor</th>
@@ -137,12 +137,12 @@ inside of our GitHub ReadMe or other pages</p>
 		<td>✔</td>
 		<td>✔</td>
 		<td>✔</td>
+		<td>x</td>
 		<td>✔</td>
 		<td>✔</td>
 		<td>✔</td>
 		<td>✔</td>
-		<td>✔</td>
-		<td>✕</td>
+		<td>-</td>
 	</tr>
 </table>
 <table>
@@ -155,14 +155,14 @@ inside of our GitHub ReadMe or other pages</p>
 	<tr>
 		<th>Josh</th>
 		<th>--</th>
-		<td>✔</td>
-		<td>✔</td>
+		<td>-</td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<th>Gregor</th>
 		<th>--</th>
-		<td>✕</td>
-		<td>✔</td>
+		<td>-</td>
+		<td>-</td>
 	</tr>
 </table>
 	
