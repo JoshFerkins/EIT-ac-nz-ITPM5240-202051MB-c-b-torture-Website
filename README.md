@@ -137,6 +137,10 @@ inside of our GitHub ReadMe or other pages</p>
 <p>Josh is in charge of monitoring and keeping all website aspects and attendence up to date.</p>
 <br>
 <hr>
+
+<h4>Attendance is based off of days that class is active</h4>
+<p>Attendance during the period with no class is encouraged, but can not be enforced and will not be marked</p>
+
 <table>
 	<tr>
 		<th>Attend</th>
@@ -196,16 +200,34 @@ inside of our GitHub ReadMe or other pages</p>
 		<th>June</th>
 		<td>1st</td>
 		<td>2nd</td>
+		<td>7th</td>
+		<td>8th</td>
+		<td>9th</td>
+		<td>14th</td>
+		<td>15th</td>
+		<td>16th</td>
 	</tr>
 	<tr>
 		<th>Josh</th>
 		<th>--</th>
 		<td>-</td>
 		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<th>Gregor</th>
 		<th>--</th>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
 		<td>-</td>
 		<td>-</td>
 	</tr>
