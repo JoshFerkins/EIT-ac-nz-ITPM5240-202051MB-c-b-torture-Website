@@ -2,7 +2,52 @@
 <h4>Josh Ferkins, Project Manager</h4>
 <h4>Gregor Tutty, Developer</h4>
 
+<h2>Client Requirements</h2>
+<h4><i>This is a direct copy of the client requirements aquiered by the company</i></h4>
+<p>I, the customer, wish to have a website which plays my music files from my computer. This website needs to have an mp3 file list for me to select songs, An option to upload music from my computer on to a cloud, and music player widget at the bottom of the screen for playing the music.</p>
 
+<p>I have compiled a list of the desired features for the website, this includes the most important features which must be included as well as the less important quality of life features which are flexible to change and modification.</p>
+
+<h4>The most important features are:</h4>
+<h5>upload section</h5>
+<ul>
+	<li> drag and drop</li>
+	<li> upload button / click</li>
+</ul>
+<h5>mp3 file list</h5>
+<ul>
+	<li>playlists</li>
+	<li>an overall list of playlists</li>
+	<li>playlist categories</li>
+	<li>song categories</li>
+	<li>a search bar at the top of for finding certain songs or playlists.</li>
+</ul>
+<h5>the music player widget</h5>
+<ul>
+	<li>play button</li>
+	<li>seek bar / horizontal slider</li>
+	<li>shuffle button</li>
+	<li>volume slider</li>
+	<li>previous / next buttons</li>
+</ul>
+
+<h4>The less important features that I would like to be included (open to interpretation and modification).</h4>
+<h5>queue songs</h5>
+<ul>
+	<li>a queue list for adding desired songs to as a sort of temporary playlist</li>
+</ul>
+<h5>an analogous color scheme of red and violet</h5>
+<ul>
+	<li>low saturation violet as the background and red to highlight</li>
+</ul>
+<h5>A modern style</h5>
+<ul>
+	<li>sleek rounded buttons</li>
+	<li>pastel colours</li>
+	<li>simple logo</li>
+</ul>
+<br>
+<hr>
 <h3>Daily Monitoring</h3>
 <br>
 <h4><i>04/05/2021</i></h4>
@@ -91,7 +136,7 @@ inside of our GitHub ReadMe or other pages</p>
 <br>
 <p>Josh is in charge of monitoring and keeping all website aspects and attendence up to date.</p>
 <br>
- 
+<hr>
 <table>
 	<tr>
 		<th>Attend</th>
