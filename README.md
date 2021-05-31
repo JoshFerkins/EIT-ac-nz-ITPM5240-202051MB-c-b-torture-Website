@@ -101,7 +101,11 @@ for Cucumber and Banana Music.</p>
 <br>
 <p>The logo has been created and implemented into the ReadMe file and eventually the entire project. This logo is visible from the top of the ReadMe file.
 This logo displays the slice of both a cucumber and a banana held together by a band creating the combined image of a headset.</p>
+
+<div align="center">
 <img src="music_logo.png">
+</div>
+	
 <br>
 <h4><i>10/05/2021</i></h4>
 <br>
@@ -174,7 +178,7 @@ inside of our GitHub ReadMe or other pages</p>
 		<td>✔</td>
 		<td>✔</td>
 		<td>✔</td>
-		<td>-</td>
+		<td>✔</td>
 	</tr>
 	<tr>
 		<th>Gregor</th>
@@ -191,7 +195,7 @@ inside of our GitHub ReadMe or other pages</p>
 		<td>✔</td>
 		<td>✔</td>
 		<td>✔</td>
-		<td>-</td>
+		<td>✔</td>
 	</tr>
 </table>
 <table>
