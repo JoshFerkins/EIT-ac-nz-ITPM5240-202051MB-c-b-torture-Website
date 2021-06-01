@@ -228,8 +228,8 @@ inside of our GitHub ReadMe or other pages</p>
 	<tr>
 		<th>Josh</th>
 		<th>--</th>
-		<td>-</td>
-		<td>-</td>
+		<td>✔</td>
+		<td>✔</td>
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
@@ -240,8 +240,8 @@ inside of our GitHub ReadMe or other pages</p>
 	<tr>
 		<th>Gregor</th>
 		<th>--</th>
-		<td>-</td>
-		<td>-</td>
+		<td>✔</td>
+		<td>✔</td>
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
