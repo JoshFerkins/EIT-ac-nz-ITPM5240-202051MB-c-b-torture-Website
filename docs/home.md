@@ -2,9 +2,6 @@
 <h4>Josh Ferkins, Project Manager</h4>
 <h4>Gregor Tutty, Developer</h4>
 
-<a href="page_2.html">Page 2</a>
-<a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/page_2.html">Url Link</a>
-
 <ul>
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/team_meeting.html">Team Meetings</a></li>
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/stakeholders.html">Stakeholders</a></li>
