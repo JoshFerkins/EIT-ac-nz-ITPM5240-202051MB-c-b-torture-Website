@@ -5,6 +5,20 @@
 <a href="page_2.html">Page 2</a>
 <a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/page_2.html">Url Link</a>
 
+<ul>
+	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/team_meeting.html">Team Meetings</a></li>
+	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/stakeholders.html">Stakeholders</a></li>
+	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/project_charter.html">Project Charter</a></li>
+	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/wbs.html">Work Breakdown Structure</a></li>
+	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/desc_of_product.html">Product Description</a></li>
+	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/pseudo.html">Pesudo_code</a></li>
+	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/resouce_needs.html">Resource Needs</a></li>
+	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/risk_register.html">Risk Register</a></li>
+	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/gui.html">GUI</a></li>
+	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/testing.html">Testing Document</a></li>
+	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/handover.html">Handover</a></li>
+</ul>
+
 <h2>Client Requirements</h2>
 <h4><i>This is a direct copy of the client requirements aquiered by the company</i></h4>
 <p>I, the customer, wish to have a website which plays my music files from my computer. This website needs to have an mp3 file list for me to select songs, An option to upload music from my computer on to a cloud, and music player widget at the bottom of the screen for playing the music.</p>
