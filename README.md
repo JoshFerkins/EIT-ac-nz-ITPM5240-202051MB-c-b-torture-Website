@@ -2,6 +2,8 @@
 <h4>Josh Ferkins, Project Manager</h4>
 <h4>Gregor Tutty, Developer</h4>
 
+<a href="page_2.md">Page 2</a>
+
 <h2>Client Requirements</h2>
 <h4><i>This is a direct copy of the client requirements aquiered by the company</i></h4>
 <p>I, the customer, wish to have a website which plays my music files from my computer. This website needs to have an mp3 file list for me to select songs, An option to upload music from my computer on to a cloud, and music player widget at the bottom of the screen for playing the music.</p>
