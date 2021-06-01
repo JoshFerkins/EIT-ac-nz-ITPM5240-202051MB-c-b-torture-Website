@@ -2,7 +2,7 @@
 <h4>Josh Ferkins, Project Manager</h4>
 <h4>Gregor Tutty, Developer</h4>
 
-<a href="page_2.md">Page 2</a>
+<a href="page_2.html">Page 2</a>
 
 <h2>Client Requirements</h2>
 <h4><i>This is a direct copy of the client requirements aquiered by the company</i></h4>
