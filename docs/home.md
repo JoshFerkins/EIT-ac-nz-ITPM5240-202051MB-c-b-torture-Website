@@ -1,3 +1,5 @@
+<a id="top"/>
+
 <h1>Cucumber & Banana Music</h1>
 <h4>Josh Ferkins, Project Manager</h4>
 <h4>Gregor Tutty, Developer</h4>
@@ -5,7 +7,7 @@
 <ul>
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/team_meeting.html">Team Meetings</a></li>
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/stakeholders.html">Stakeholders</a></li>
-	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/project_charter.html">Project Charter</a></li>
+	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/project_charter.html">Project Scope</a></li>
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/wbs.html">Work Breakdown Structure</a></li>
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/desc_of_product.html">Product Description</a></li>
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/pseudo_code.html">Pesudo_code</a></li>
@@ -251,6 +253,8 @@ inside of our GitHub ReadMe or other pages</p>
 	</tr>
 </table>
 	
+	
+<a href="#top">Back to the top</a>
 	
 	
 
