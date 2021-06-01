@@ -11,11 +11,11 @@
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/project_charter.html">Project Charter</a></li>
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/wbs.html">Work Breakdown Structure</a></li>
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/desc_of_product.html">Product Description</a></li>
-	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/pseudo.html">Pesudo_code</a></li>
+	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/pseudo_code.html">Pesudo_code</a></li>
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/resouce_needs.html">Resource Needs</a></li>
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/risk_register.html">Risk Register</a></li>
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/gui.html">GUI</a></li>
-	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/testing.html">Testing Document</a></li>
+	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/testing_doc.html">Testing Document</a></li>
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/handover.html">Handover</a></li>
 </ul>
 
