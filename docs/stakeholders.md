@@ -3,8 +3,6 @@ theme: jekyll-theme-cayman
 title: C&B Music Website
 ---
 
-<a id="top"/>
-
 <h1> Stakeholders</h1>
 
 <a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/home.html">Home</a>
@@ -55,5 +53,3 @@ title: C&B Music Website
     <td>Weekly Reports</td>
   </tr>
 </table>
-
-<a href="#top">Back to the top</a>
