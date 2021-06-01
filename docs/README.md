@@ -3,7 +3,7 @@
 <h4>Gregor Tutty, Developer</h4>
 
 <a href="page_2.html">Page 2</a>
-<a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/docs/page_2.html"/>
+<a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/docs/page_2.html">Url Link</a>
 
 <h2>Client Requirements</h2>
 <h4><i>This is a direct copy of the client requirements aquiered by the company</i></h4>
