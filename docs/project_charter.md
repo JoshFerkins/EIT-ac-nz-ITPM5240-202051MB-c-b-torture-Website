@@ -1,4 +1,7 @@
-
+---
+theme: jekyll-theme-cayman
+title: C&B Music Website
+---
 
 <h1>Project Charter</h1>
 
