@@ -72,12 +72,11 @@ based on the main idea of the software project. They have created the idea for a
 cloudbased mp3 downloading and converting software followed.</p>
 <br>
 <p>A repository has been created for the creation and storing of files for this project. The ReadMe file has been created, this includes...</p>
-	<ul>
-		<li>Stakeholders</li>
-  	        <li>Members</li>
-		<li>Project Charter</li>
-	</ul>
-<br>
+<ul>
+	<li>Stakeholders</li>
+        <li>Members</li>
+	<li>Project Charter</li>
+</ul>
 <p>The project charter included project goals, constraints and problems, project manager, high level schedule and budget, milestones and approvals.
 As this project is very new and there are many things to change and add in all information shown on the ReadMe files may be incorrect and sparse.
 All inforation is due to possibly change.</p>
