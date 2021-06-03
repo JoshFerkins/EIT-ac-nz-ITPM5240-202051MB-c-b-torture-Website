@@ -28,5 +28,11 @@ title: C&B Music Website
   <br>
 
 <h3><i>Week 5</i></h3>
+<p>In this week we are assigning tasks to aim for completion of the planning and all of the write up, as well as preperation for the implementation of the Pseudo-Code. Josh has been given the task of recreating the website onto GitHub Pages. The website will hopefully include multiple pages linked together to make navigating the documentation simplier and more stream lined. This will also intitle extra research and information transmitting to further expand the documentation.</p>
+
+<p>Gregor has been assigned the tasks of creating all of the wireframes and paper prototypes for the mobile version. He will also be conducting research on competitors as well as the risk register. These will all be added to the documenation and are some of the most important aspects of the documentation.</p>
+
+<h3><i>Week 6</i></h3>
+
 
 <a href="#top">Back to the top</a>
