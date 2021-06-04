@@ -26,9 +26,47 @@ title: C&B Music Website
   <li>Premium Model</li>
   <li>Web App, App, and Mobile.</li>
   <li>345 million users</li>
-  <li>155 million subscribers (USD $10 / mo)</li>
+  <li>155 million subscribers ($10 USD / mo)</li>
 </ul>
+
+<div align="center">
+  <img src="/images/spotify_analy.png" width="800" height="500"/>
+</div>
 
 <p>The main feature of the application; the music player, is always on display at the bottom of the application where it’s subfeatures can be accessed at all times, this would be the most vital note to take away from Spotify's theme but it's also important to point out the dark theme, grid layout, and modern aesthetic. These all help make Spotify seem very professional and is practically an industry standard for other music players too. It’s also cool to see the utilisation of symbols for each interaction which helps memorise critical paths for the user, and also helps the less abled users discern each button's use. The overall UX UI of Spotify is extremely well made and intuitive.</p>
   
+<h3>Apple Music</h3>
 
+<p>Apple Music is a subsidiary of Apple that lets people move their downloaded iOS songs to a cloud service. Apple music exhibits a slightly larger range of music than Spotify, however that likely won't last as Spotify has been adding much more content than apple music. Apple does utilise exclusivity deals to make their music platform unique.</p>
+
+<div align="center">
+  <img src="/images/apple_analy.png" width="800" height="500"/>
+</div>
+
+<p>Apple keeps their music player at the top of the screen and keeps two different fields, one bar on the left for selecting different pages and the main bar which shows whichever tab you’ve entered, i.e. playlists or discovery. This is a pretty standard layout although I believe a music player on the top of the screen is an odd choice, typically it’s standard to keep important buttons or a search bar at the top. I found it intriguing that although apple music is uniquel with it’s layout the most important features are similar to spotify, I believe there are industry standards that shouldn’t be deviated from, and apple showcases this with their similarity to spotify and vice versa.</p>
+
+<ul>
+  <li>Apple music was debuted by Apple San Francisco in 2015.</li>
+  <li>75 million songs + 40,000 new songs daily</li>
+  <li>Pay to use model</li>
+  <li>Web App, App, and Mobile (iOS, IpadOS MacOS, etc.)</li>
+  <li>72 million users ($10 USD / mo)
+</ul>
+
+<h3>Youtube Music</h3>
+
+<p>YT Music is a streaming service provided by Youtube, a subsidiary of Google. This service particularly caters towards streaming music by popular artists as well as music commonly found on youtube, a platform which was already popular for finding music. This platform allows users to move their music from youtube to a more music catered application. With additional features that can cater to the specific user base that youtube’s video streaming site doesn't allow for such as shuffling playlists and finding new music.</p>
+
+<div align="center">
+  <img src="/images/youtube_music_analy.png" width="800" height="500"/>
+</div>
+
+<p>Youtube Music’s UI is much more similar to the original youtube streaming service in terms of layout and less similar to music applications such as spotify or apple. It’s main deviation from the norm would be it’s avoidance of side bars, it only shows the main screen and a player at the bottom with 4 options at the top. This is a lot cleaner and less cluttered but increases the number of actions required to get to your playlists and other important features. Spotify manages to keep most important features on one screen without cluttering or confusing the application. YT Music does seem much simpler which is good in some instances, although I do like the aesthetic I think it misses out on the features that apple music and spotify have perfected.</p>
+
+<ul>
+  <li>YT Music was debuted on November 12, 2015 by Google</li>
+  <li>60 million songs</li>
+  <li>Freemium Model</li>
+  <li>Web app, mobile.</li>
+  <li>30 million subscribers ($10 USD / mo)</li>
+</ul>
