@@ -231,8 +231,8 @@ inside of our GitHub ReadMe or other pages</p>
 		<th>--</th>
 		<td>✔</td>
 		<td>✔</td>
-		<td>-</td>
-		<td>-</td>
+		<td>N/A</td>
+		<td>✔</td>
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
@@ -243,8 +243,8 @@ inside of our GitHub ReadMe or other pages</p>
 		<th>--</th>
 		<td>✔</td>
 		<td>✔</td>
-		<td>-</td>
-		<td>-</td>
+		<td>N/A</td>
+		<td>✔</td>
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
