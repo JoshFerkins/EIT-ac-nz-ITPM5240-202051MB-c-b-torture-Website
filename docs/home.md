@@ -118,7 +118,7 @@ for Cucumber and Banana Music.</p>
 This logo displays the slice of both a cucumber and a banana held together by a band creating the combined image of a headset.</p>
 
 <div align="center">
-	<img src="./images/cb_logo.png" width="400" height="400"/>
+	<img src="https://github.com/JoshFerkins/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/blob/88aec2bf32c7cd5916612d77fb4a7d49ed53a164/images/cb_logo.png" width="400" height="400"/>
 </div>
 	
 <br>
