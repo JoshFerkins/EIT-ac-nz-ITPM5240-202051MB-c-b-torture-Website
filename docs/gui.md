@@ -9,12 +9,12 @@ title: C&B Music Website
 
 <h2>Computer</h2>
 
-<img src="/images/comp_wire_1"/>
-<img src="/images/comp_wire_2"/>
-<img src="/images/comp_wire_3"/>
+<img src="/images/comp_wire_1.png"/>
+<img src="/images/comp_wire_2.png"/>
+<img src="/images/comp_wire_3.png"/>
 
 <h2>Mobile</h2>
 
-<img src="/images/mobile_music_list"/>
-<img src="/images/mobile_music _widg"/>
-<img src="/images/mobile_music_half"/>
+<img src="/images/mobile_music_list.png"/>
+<img src="/images/mobile_music_widg.png"/>
+<img src="/images/mobile_widg_half.png"/>
