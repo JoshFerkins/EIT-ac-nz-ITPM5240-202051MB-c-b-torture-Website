@@ -5,7 +5,7 @@ title: C&B Music Website
 
 <h1>Team Meetings</h1>
 
-<a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/home.html">Home</a>
+<a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/">Home</a>
 <a id="top"/>
 <h3><i>Week 1</i></h3>
 <p>The group has been created consisting of Josh Ferkins and Gregor Tutty. The idea for an Mp3 player had been decided on. The name for the player had bene chosen as rhythmic flow but had later been changed to Cucumber and Banana Music. Josh was made the project manager with Gregor Becoming a developer. Gregor has been assigned the job of finding the high-level budget. Josh has been assigned the job of restructing information in ReadMe to html. Gregor will also be finding the client requirements, success criteria, constraints and floats. Josh has been assigned the position of monitoring the project process, and also creating the code for future GitHub Pages Website and ReadMe file. The Agile methodology has been chosen for the project, this choice was made with both input from Gregor and Josh.</p>
