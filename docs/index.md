@@ -4,6 +4,7 @@
 <h4>Josh Ferkins, Project Manager</h4>
 <h4>Gregor Tutty, Developer</h4>
 
+<h3>Table of Contents</h3>
 <ul>
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/team_meeting.html">Team Meetings</a></li>
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/stakeholders.html">Stakeholders</a></li>
@@ -17,6 +18,7 @@
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/testing_doc.html">Testing Document</a></li>
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/handover.html">Handover</a></li>
 </ul>
+<a href="#attend">Attendance</a>
 
 <h2>Client Requirements</h2>
 <h4><i>This is a direct copy of the client requirements aquiered by the company</i></h4>
@@ -252,7 +254,7 @@ inside of our GitHub ReadMe or other pages</p>
 	</tr>
 </table>
 	
-	
+<a id="attend"/>
 <a href="#top">Back to the top</a>
 	
 	
