@@ -8,12 +8,11 @@ title: C&B Music Website
 
 <div align="center">
 <h2>Configuration Report</h2>
-<img src="images/config_report.png" width="700" height="600"/>
-
+<img src="images/config_report.png" width="700" height="600"/><br>  
 <a id="dep_doc"/>
-
 <a id="pro_guide"/>
 <a href="#top">Back to the top!</a>
+
 <h2>Product use Guide</h2>
 <h3>Computer version usage guide</h3>
 <p>This shows how the many features of the product can be used</p>
