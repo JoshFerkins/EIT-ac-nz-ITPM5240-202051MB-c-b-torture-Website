@@ -33,6 +33,6 @@ title: C&B Music Website
 <p>Gregor has been assigned the tasks of creating all of the wireframes and paper prototypes for the mobile version. He will also be conducting research on competitors as well as the risk register. These will all be added to the documenation and are some of the most important aspects of the documentation.</p>
 
 <h3><i>Week 6</i></h3>
-
+<p>This week has been a push to get work done and completed within the limiting time frame, the amount of work required is dwindiling as more is being accomplished by the day. All that remains to be completed is the configuration report, 
 
 <a href="#top">Back to the top</a>
