@@ -5,7 +5,10 @@ title: C&B Music Website
 
 <h1>GUI</h1>
 
-<a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/">Home</a>
+<a id="top"/>
+<h3><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/">Home</a></h3>
+
+<h4><a href="#persona">Personas</a></h4>
 
 <h2>Computer</h2>
 <h3>Wireframes</h3>
@@ -21,3 +24,13 @@ title: C&B Music Website
 <img src="images/mobile_music_list.png"/>
 <img src="images/mobile_music_widg.png"/>
 <img src="images/mobile_widg_half.png"/>
+
+<h2>Persona</h2>
+
+<a id="persona"/>
+<a href="#top">Back to the top!</a>
+
+<img src="images/person_1.png"/>
+<img src="images/person_2.png"/>
+<img src="images/person_3.png"/>
+
