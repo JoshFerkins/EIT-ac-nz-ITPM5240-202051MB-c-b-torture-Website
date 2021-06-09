@@ -21,16 +21,20 @@ title: C&B Music Website
 <h2>Mobile</h2>
 <p>These mobile wireframes have been created in the same style as the computer version to stay intune with the overall theme</p>
 
+<div align="center">
 <img src="images/mobile_music_list.png"/>
 <img src="images/mobile_music_widg.png"/>
 <img src="images/mobile_widg_half.png"/>
+</div>
 
 <h2>Persona</h2>
 
 <a id="persona"/>
 <a href="#top">Back to the top!</a>
 
-<img src="images/person_1.png"/>
-<img src="images/person_2.png"/>
-<img src="images/person_3.png"/>
+<div align="center">
+<img src="images/persona_1.png"/>
+<img src="images/persona_2.png"/>
+<img src="images/persona_3.png"/>
+</div>
 
