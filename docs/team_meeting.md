@@ -33,6 +33,9 @@ title: C&B Music Website
 <p>Gregor has been assigned the tasks of creating all of the wireframes and paper prototypes for the mobile version. He will also be conducting research on competitors as well as the risk register. These will all be added to the documenation and are some of the most important aspects of the documentation.</p>
 
 <h3><i>Week 6</i></h3>
-<p>This week has been a push to get work done and completed within the limiting time frame, the amount of work required is dwindiling as more is being accomplished by the day. All that remains to be completed is the configuration report, 
+<p>This week has been a push to get work done and completed within the limiting time frame, the amount of work required is dwindiling as more is being accomplished by the day. All that remains to be completed is the configuration report, deployment documentation, maintenance guide, user help guide and the product help guide. Josh Ferkins has been allocated the configuration report, product help guide and has volunterily taken on the mainenance guide. Gregor Tutty has been assigned the tasks of creating the deployment documentation and user help guides. Gregor will also be undergoing the daunting tasks of creating the psuedo-code for the computer and mobile varient, this shall pose no threat what so ever. Josh will aid Gregor in the creation of the pseudo-code once all documentation and the website is fully up to date and everything evaluated. All of these tasks minuse the pseudo-code will be expected the be completed by the 11th of June at the end of this week.</p>
+
+<h3><i>Week 7</i></h3>
+<p>
 
 <a href="#top">Back to the top</a>
