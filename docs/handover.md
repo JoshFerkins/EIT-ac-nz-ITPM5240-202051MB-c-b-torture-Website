@@ -21,16 +21,22 @@ title: C&B Music Website
 <h1>Deployment Documentation</h1>
 
 <h3>Schedule</h3>
+
 <h4>Preperation</h4>
 <p>For the preparation stage we will gather all the code required to make the application function such as executables, libraries, configs, and resources. These will be packaged as the single software release that can be downloaded as an application. The website will require a server setup and domain name. A host server must be verified and correctly set up.<p>
 <br>
+  
 <h4>Testing</h4>
 <p>Before an update can be implemented to a live environment, it should be put in a local test server where it can be stress tested and configured. Any immediate bugs can be fixed before being moved to a live environment.</p>
 <br>
+
 <h4>Deployment</h4>
 <p>Once the alpha release has been tested it can be moved to the live servers. Once this has happened it is important to stay alert with what customers are saying and to be hyper vigilant about any potential bugs and broken features that could ruin user experience. Hot fixes can be implemented to fix any less obvious bugs that have sneaked into this release.</p>
+
 <br>
+
 <h4>Release Date: 17th of June 5:00pm</h4>
+
 <ul>
   <li>Rune dedicated website servers</li>
   <li>QA and software test (30 minutes)</li>
@@ -56,8 +62,15 @@ title: C&B Music Website
   <li>Evaluating customer feedback</li>
   <li>Eliminating bugs</li>
   <li>Optimised user experience</li>
-</ul>Risk management will be a major focus for the application's release. In order to mitigate risks we will need to ensure all following likelihoods and consequences are properly assessed and managed. We will measure the importance of a risk according to the level of probability and Severity for each risk. These will have 3 levels, Critical, Moderate, and Low Severity. Each level is coloured red, yellow, and green respectively.</p>
+</ul>
 
+<br>
+
+<p>Risk management will be a major focus for the application's release. In order to mitigate risks we will need to ensure all following likelihoods and consequences are properly assessed and managed. We will measure the importance of a risk according to the level of probability and Severity for each risk. These will have 3 levels, Critical, Moderate, and Low Severity. Each level is coloured red, yellow, and green respectively.</p>
+
+<h3>Risks</h3>
+<p>
+  
 <table>
   <tr>
     <th colspan="4">Risks</th>
@@ -118,8 +131,9 @@ title: C&B Music Website
   </tr>
 </table>
 
-<h3>Risks</h3>
-<p>
+<img src="images/deploy_table.png"/>
+<br>
+<hr>
 
 <a id="pro_guide"/>
 <a href="#top">Back to the top!</a>
