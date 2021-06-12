@@ -160,6 +160,174 @@ title: C&B Music Website
 
 <a id="user_guide"/>
 <a href="#top">Back to the top!</a>
+
+<h1>User Help Files</h1>
+
+<p>When you first open the application or website you will be registered as a guest. In order to get the most from C&B Music you will need to create an account or log in to an existing account</p>
+<p>Creating an account:</p>
+<p>When you create a C&B Music account you provide some personal info along with a username and password, by providing this information you can use it to keep your account secure and safe.</p>
+
+<ul>
+  <li>Go to the C&B Music sign-in page.</li>
+  <li>Click the “Create Account” button.</li>
+  <li>Enter your email.</li>
+  <li>Enter a username.</li>
+  <li>Enter a password.</li>
+  <li>Repeat password.</li>
+  <li>Optional: Add personal info such as phone number, location, name, etc.</li>
+  <li>Click Next.</li>
+  <li>Confirm email using the code sent to your email address.</li>
+</ul>
+
+<p>Sign in to an existing account</p>
+
+<ul>
+  <li>Enter username or email.</li>
+  <li>Enter password</li>
+  <li>Click “Sign in”.</li>
+  <li>If you’re using a new device you’ll need to confirm your email.</li>
+  <li>If you have two factor authentication enabled you’ll have to enter your 2FA code</li>
+</ul>
+
+<h3>Features</h3>
+
+<h4>Search</h4>
+<p>The search bar at the top of the screen allows you to search for:</p>
+
+<ul>
+  <li>Songs</li>
+  <li>Playlists</li>
+  <li>Artists</li>
+  <li>Podcasts</li>
+  <li>Audiobooks</li>
+  <li>Friends</li>
+  <li>Users</li>
+  <li>Advanced search</li>
+</ul>
+
+<p>Using commands you can specify certain details to be searched or omitted from your search, for example</p>
+<p>Year=<2000 genre=rock</p>
+<p>This search query will retrieve rock songs from before 2000</p>
+
+<p><b>Commands:</b></p>
+<ul>
+  <li>Year=</li>
+  <li>Genre=</li>
+  <li>Artist=</li>
+  <li>Length=</li>
+</ul>
+
+<h3>Songs List</h3>
+<p>In your Songs List you will find all music that has been downloaded, favorited, or added to your playlists. You can add songs to your list by searching for them or adding already downloaded songs from your computer.</p>
+
+<h3>Music Player</h3>
+<p>Your Music Player will show the music currently selected, duration, time slider, play/pause, skip, shuffle, loop, and volume meter. This will always be located at the bottom of your screen.</p>
+
+<h3>Playlists</h3>
+<p>Create new playlists with the Create Playlist button (A new playlist requires a name). Created or saved playlists can be found on the left side. Selected playlists show up at the top with their songs listed in the center of the screen. Another user’s playlists can be added to your selection but cannot be edited.</p>
+
+<h3>Friends List</h3>
+<p>You can search for a friend’s C&B account and add them, share music with them, etc. Added friends will show up on the right side when they’re online, friends list can be accessed using the drop down in the top right.<p>
+
+<h2>Account Help</h2>
+
+<h3>Account Info</h3>
+<p>Under settings go to “Account Details” here you can change your region/country, profile picture, username, and DoB. You may also suspend or fully disable your account at the bottom of this screen.</p>
+  
+<h3>Payment Help</h3>
+<p>You can send a support ticket under settings, support, add ticket.</p>
+<p>You can request to:</p>
+<ul>
+  <li>See Receipts</li>
+  <li>See Payment details</li>
+  <li>Validate gift card</li>
+  <li>Report failed payments</li>
+  <li>Request refund</li>
+  <li>Cancel premium plans</li>
+  <li>Dispute charges</li>
+</ul>
+
+<h3>Privacy and Security</h3>
+<p>Under settings you can go to privacy settings and change what data C&B Music keeps. You can also request to download your personal data and change what others can see on your account. From here you can also navigate to our privacy policy.</p>
+
+<h3>Account Recovery</h3>
+<p>If you have forgotten your password or username you can click “Forgot Password” to send an email confirming a password reset.  You are advised to use 2FA and a complex password. Do not give away your login details to anyone. If you believe your account has been hacked you need to change your password then navigate to your account page and click sign out on all devices.</p>
+
+<h3>Migrate Account</h3>
+<p>If you need to move emails or change 2FA to another account follow these steps:</p>
+<ul>
+  <li>Log into your old C&B account</li>
+  <li>Go to settings</li>
+  <li>Select Support</li>
+  <li>Request migration to new email or 2FA device change</li>
+</ul>
+
+<h3>Explicit Content</h3>
+<p>If you would like to filter out explicit content you can select this under settings, manage users, and toggle “hide explicit content”. You can enable a “clean version only” feature which only allows for clean versions of a song (if the artist has made this available). Any inappropriately tagged songs should be reported.</p>
+
+<h2>Application Settings</h2>
+
+<h3>Change Language</h3>
+<p>Your language is automatically set according to your region, if you would like to change your language you can navigate to Settings, and change the language, there are flags for each language.</p>
+
+<h2>Keyboard Shortcuts</h2>
+<p>Keyboard shortcuts include</p>
+<ul>
+  <li>Space to play/pause</li>
+  <li>Left/right arrow to skip 2 seconds</li>
+  <li>Ctrl + left/right arrow to skip song</li>
+  <li>Ctrl + S to toggle shuffle</li>
+  <li>Ctrl + R to repeat a song</li>
+  <li>Up/down arrow to change volume</li>
+  <li>Ctrl + F to search list for specific songs/artists</li>
+  <li>Ctrl + Z to Undo deleted playlist or song</li>
+</ul>
+
+<p>If you would like to view or change keyboard shortcuts you can see them under settings, advanced settings, keyboard shortcuts.</p>
+
+<h3>Update</h3>
+<p>When an update is ready you will be prompted to update and restart when you open up the application.</p>
+
+<h3>Uninstall</h3>
+<p>If you wish to uninstall you can do so by following these steps:</p>
+<ul>
+  <li>Exit C&B Music</li>
+  <li>Click Start, then settings.</li>
+  <li>Click apps then C&B Music</li>
+  <li>Uninstall C&B Music</li>
+</ul>
+
+<h3>Local Storage Files</h3>
+<p>To find where downloads and songs are kept you can follow these steps:</p>
+<ul>
+ <li>Go to settings</li>
+ <li>Go to advanced</li>
+ <li>Scroll down to see file location</li>
+ <li>Go to that folder in your file explorer</li>
+</ul>
+
+<h3>Privacy</h3>
+<p>Friends can see your playlists, current song, and recent activity. If you want to make these private you can go to settings, then privacy. You can change what is public and what is private.</p>
+
+<h2>Other</h2>
+
+<h3>Report a Text, Image, or Playlist</h3>
+<p>If a song or playlist is inappropriate you can report it to C&B Music’s moderation team. Abusing the report function can lead to your accounts suspension or deletion. In order to report a song, playlist or account you must follow these steps:</p>
+<ul>
+  <li>right click the offensive material</li>
+  <li>Click report</li>
+  <li>Enter in report details and summary</li>
+  <li>Send to moderation.</li>
+</ul>
+
+<h2>Report Stolen Content</h2>
+<p>If someone has stolen content or material that you or another own you can submit a takedown request to have the stolen material removed from the C&B platform. To report   <li>stolen material you can follow these steps:</p>
+  <li>Right click the stolen song or image.</li>
+  <li>Click report.</li>
+  <li>Select “stolen material”</li>
+  <li>Send the copyright report.</li>
+</ul>
+
 <a id="maint"/>
 <a href="#top">Back to the top!</a>
 <h2>Maintenance management</h2>
