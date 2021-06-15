@@ -36,6 +36,8 @@ title: C&B Music Website
 <p>This week has been a push to get work done and completed within the limiting time frame, the amount of work required is dwindiling as more is being accomplished by the day. All that remains to be completed is the configuration report, deployment documentation, maintenance guide, user help guide and the product help guide. Josh Ferkins has been allocated the configuration report, product help guide and has volunterily taken on the mainenance guide. Gregor Tutty has been assigned the tasks of creating the deployment documentation and user help guides. Gregor will also be undergoing the daunting tasks of creating the psuedo-code for the computer and mobile varient, this shall pose no threat what so ever. Josh will aid Gregor in the creation of the pseudo-code once all documentation and the website is fully up to date and everything evaluated. All of these tasks minuse the pseudo-code will be expected the be completed by the 11th of June at the end of this week.</p>
 
 <h3><i>Week 7</i></h3>
-<p>
+<p>This is the final week, all relative information and documents have been completed and majority of milestones have been meet with very few slightly late. All that is left to be done is an evalutation of the project. This evaluation will be completed and displayed on this website under the evaluation page on the home page. This will be an evaluation of how the project went conducted by the project manager Josh Ferkins. He will be discussing the main aspects of both the positive and negatives of the project followed by a brief personal reflection.</p>
+
+<p>This will be followed by a handin of the assignment and project to the tutor for marking.</p>
 
 <a href="#top">Back to the top</a>
