@@ -238,7 +238,7 @@ inside of our GitHub ReadMe or other pages</p>
 		<td>✔</td>
 		<td>✕</td>
 		<td>✕</td>
-		<td>-</td>
+		<td>✔</td>
 	</tr>
 	<tr>
 		<th>Gregor</th>
@@ -250,7 +250,7 @@ inside of our GitHub ReadMe or other pages</p>
 		<td>✔</td>
 		<td>✔</td>
 		<td>✔</td>
-		<td>-</td>
+		<td>✕</td>
 	</tr>
 </table>
 	
