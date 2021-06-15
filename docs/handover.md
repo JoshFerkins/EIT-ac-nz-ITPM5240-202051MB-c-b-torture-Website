@@ -2,9 +2,14 @@
 theme: jekyll-theme-cayman
 title: C&B Music Website
 ---
-<h3><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/">Home</a></h3>
+
 <a id="top"/>
 
+<div align="center">
+<h1>Handover Page</h1>
+</div>
+
+<h3><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/">Home</a></h3>
 <ul>
   <li><a href="#dep_doc">Deployment Documentation</a></li>
   <li><a href="#pro_guide">Product Usage Guide</a></li>
@@ -321,7 +326,8 @@ title: C&B Music Website
 </ul>
 
 <h2>Report Stolen Content</h2>
-<p>If someone has stolen content or material that you or another own you can submit a takedown request to have the stolen material removed from the C&B platform. To report   <li>stolen material you can follow these steps:</p>
+<p>If someone has stolen content or material that you or another own you can submit a takedown request to have the stolen material removed from the C&B platform. To report   <p>stolen material you can follow these steps:</p>
+<ul>
   <li>Right click the stolen song or image.</li>
   <li>Click report.</li>
   <li>Select “stolen material”</li>
