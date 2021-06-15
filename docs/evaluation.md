@@ -1,1 +1,23 @@
+---
+theme: jekyll-theme-cayman
+title: C&B Music Website
+---
+<a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/">Home</a>
 
+<h1>Project Evaluation</h1>
+<h3>Evalution completed by Josh Ferkins, Project Manager</h3>
+
+<p>The project group C & B Torture had been created in asperation of creating the new and improved C & B Music mp3 player and converter. This group consisted of Josh Ferkins and Gregor Tutty, I had been assigned the role of Project Manager with Tutty being assigned the role of Developer. These roles were both created and suited to each project group member due to their personality, skills, and desires. Both are old boys coming from Gisborne Boys High School. After completing High School these two decided to join EIT Tairawhite, Bachelor in Computer Systems and explore their passion. They have become some-what adept at these skills and knowledgable about their surrounding</p>
+
+<p>The main aim for this project was to plan, create and document all actions taken. All monitoring and team meetings have been conducted by Ferkins, he has undertaken may of the attributes in the ReadMe file in the main repository as well as creating and writing out majority of information in the website. Tutty conducted all designing work as well as pseudo code. Both members Ferkins and Tutty equally participated in creating all other relevant information.</p>
+
+<p>I completed the Stakeholder registry, this places all stakeholders, their positions, input, importance and requirements into a table for better visualisation. The project Charter which displayed all relative business and project information including the budget as well as the requirements, this was also paired with the Project Scope. I created the plan for the software design and what features will be incorporated. I also maintained all monitoring, this included attendance, team meetings, issues, ReadMe information, relavent website related information. This documentation is very important because it ensures everyone is able to easily view how the project has been conducted and placed together. This also shows individual work that has been completed for marking. I created the product use charts as well as the maintenance schedule, and configuration report.</p>
+
+<p>Tutty created the client requirements that have been direct clear and followed precisely, he also created the project driver, constraints, success criteria, project floats and the budget. He has been the design who was in charge of creating the logo and all wireframes at his own discretion of creativity. Tutty has been allocated these tasks due to his creativity and ingenuity. The company profile was his task along with the personas that has been useful to the project in allowing us to form and mold the software around the personas likes, dislikes and personalities. These personas give us an idea of who our potentional clients and customers will be and how we can satisfy them.</p>
+
+<p>The methodology that we have chosen was the Agile methodology. This was because we appreciated the idea of constantly rechecking every aspect and ensuring everything is perfect before submission. Agile also gave us the ability to interact with or clients and customers more, as there were no clients or customers we instead Created the personas along the way to simulate the concept of new ideas and challenges entering. I believe we could've followed the Agile methodology more religiously, I feel as if at times we strayed from the methodology and simply completed work as it needed to be done. To better this we should've been more professional in dishing out tasks respectively and ensuring all timeframes are meet and criteria completed.</p>
+
+<p>Overall my personal opinion on how the project went was that despite at times being slightly rough we were able to pull through we were always working together and ensuring we all got equal tasks and obligations. All tasks that had been divided had been completed with majority of milestones meet and completed with others being one or two days late. We attempted in following the methodology to the best of our extent but I think the one main aspect that let us down on that front was both of our combined lack of experience in the field of management and large scale projects. I think we have both learned a great deal of information and aquired many useful skills through this project. Despite the trials and tribulations we both experienced in this project we have both pulled through and completed all tasks required of us and completed the project to the best of our extent</p>
+
+<p>Your sincerely</p>
+<p>Josh Ferkins</p>
