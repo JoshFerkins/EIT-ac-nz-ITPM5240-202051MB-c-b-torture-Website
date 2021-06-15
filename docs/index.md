@@ -16,6 +16,7 @@
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/risk_register.html">Risk Register</a></li>
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/gui.html">GUI</a></li>
 	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/handover.html">Handover</a></li>
+	<li><a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/evaluation.html">Handover</a></li>
 </ul>
 <a href="#attend">Attendance</a>
 
