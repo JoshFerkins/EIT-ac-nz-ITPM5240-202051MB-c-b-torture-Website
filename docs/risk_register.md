@@ -5,6 +5,7 @@ title: C&B Music Website
 
 <h1>risk</h1>
 
+<a id="top"/>
 <a href="https://JoshFerkins.github.io/EIT-ac-nz-ITPM5240-202051MB-c-b-torture-Website/">Home</a>
 
 <table>
@@ -77,13 +78,12 @@ title: C&B Music Website
   <tr>
     <td>7</td>
     <td>02/06/2021</td>
-    <td>Copyright Enfrigment</td>
+    <td>Copyright Enfringment</td>
     <td>Low</td>
     <td>Low</td>
     <td>High</td>
     <td>Remove all copyrighted material, or sign for copyright use.</p>
   </tr>
 </table>
-  
-</table>
-       
+
+<a href="#top">Back to the Top!</a>  
