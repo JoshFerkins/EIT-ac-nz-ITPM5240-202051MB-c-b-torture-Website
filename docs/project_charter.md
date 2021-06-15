@@ -87,17 +87,17 @@ title: C&B Music Website
         <tr>
           <td>1st June</td>
           <td>Mobile wireframes, paper prototypes, chart</td>
-          <td><i>In Progress</i></td>
+          <td><i>Late 04/06/2021</i></td>
         </tr>
         <tr>
           <td>10th June</td>
           <td>Pseudo-Code Complete</td>
-          <td><i>In Progress</i></td>
+          <td><i>Achieveds</i></td>
         </tr>
         <tr>
           <td>14th June</td>
           <td>Full evaluations complete</td>
-          <td><i>In Progress</i></td>
+          <td><i>Achieved</i></td>
         </tr>
       </table>   
     </td>
