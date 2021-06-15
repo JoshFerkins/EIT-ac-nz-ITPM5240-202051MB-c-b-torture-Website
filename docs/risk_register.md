@@ -64,7 +64,7 @@ title: C&B Music Website
     <td>Medium</td>
     <td>High</td>
     <td>High</td>
-    <td>Ensure that backups are created regularly, this will ensure that upon any major file loss all data can be backed up based off of latest dackup that has been created</td>
+    <td>Ensure that backups are created regularly, this will ensure that upon any major file loss all data can be backed up based off of latest dackup that has been     created</td>
   </tr>
   <tr>
     <td>6</td>
@@ -73,7 +73,7 @@ title: C&B Music Website
     <td>Medium</td>
     <td>High</td>
     <td>High</td>
-    <td>Conference with the client and collect all information as you can to improve upon the design of the product. This will be put forward in ensuring all clients are satisfied with the final product</td>
+    <td>Conference with the client and collect all information as you can to improve upon the design of the product. This will be put forward in ensuring all clients are        satisfied with the final product</td>
   </tr>
   <tr>
     <td>7</td>
@@ -82,7 +82,7 @@ title: C&B Music Website
     <td>Low</td>
     <td>Low</td>
     <td>High</td>
-    <td>Remove all copyrighted material, or sign for copyright use.</p>
+    <td>Remove all copyrighted material, or sign for copyright use.</td>
   </tr>
 </table>
 
