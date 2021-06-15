@@ -50,7 +50,7 @@ title: C&B Music Website
   <li>75 million songs + 40,000 new songs daily</li>
   <li>Pay to use model</li>
   <li>Web App, App, and Mobile (iOS, IpadOS MacOS, etc.)</li>
-  <li>72 million users ($10 USD / mo)
+  <li>72 million users ($10 USD / mo)</li>
 </ul>
 
 <h3>Youtube Music</h3>
