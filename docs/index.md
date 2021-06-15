@@ -189,7 +189,7 @@ inside of our GitHub ReadMe or other pages</p>
 		<td>✕</td>
 		<td>✔</td>
 		<td>✔</td>
-		<td>x</td>
+		<td>✕</td>
 		<td>✔</td>
 		<td>✔</td>
 		<td>✔</td>
@@ -206,7 +206,7 @@ inside of our GitHub ReadMe or other pages</p>
 		<td>✔</td>
 		<td>✔</td>
 		<td>✔</td>
-		<td>x</td>
+		<td>✕</td>
 		<td>✔</td>
 		<td>✔</td>
 		<td>✔</td>
@@ -235,8 +235,8 @@ inside of our GitHub ReadMe or other pages</p>
 		<td>N/A</td>
 		<td>✔</td>
 		<td>✔</td>
-		<td>-</td>
-		<td>-</td>
+		<td>✕</td>
+		<td>✕</td>
 		<td>-</td>
 	</tr>
 	<tr>
@@ -247,8 +247,8 @@ inside of our GitHub ReadMe or other pages</p>
 		<td>N/A</td>
 		<td>✔</td>
 		<td>✔</td>
-		<td>-</td>
-		<td>-</td>
+		<td>✔</td>
+		<td>✔</td>
 		<td>-</td>
 	</tr>
 </table>
