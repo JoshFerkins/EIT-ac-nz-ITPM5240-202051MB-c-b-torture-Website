@@ -57,12 +57,12 @@ title: C&B Music Website
         <tr>
           <th>Date</th>
           <th>Item</th>
-          <th>Achieved</th>
+          <th>Status</th>
         </tr>
         <tr>
           <td>17th June</td>
           <td>Project Due</td>
-          <td><i>In Progress</i></td>
+          <td><i>Achieved</i></td>
         </tr>
         <tr>
           <td>10th May</td>
